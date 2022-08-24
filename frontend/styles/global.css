@@ -1,0 +1,19 @@
+/* base styles, feel free to edit */
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial;
+}
+
+.logo {
+    width: 250px;
+}
+
+.blueBackground {
+    background-color: #dbf0fa
+}
+
+#authPage {
+    width: 80%; max-width: 600px;
+}
